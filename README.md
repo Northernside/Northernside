@@ -26,8 +26,8 @@
 <br/>
 
 <a href="https://github.com/RealzWolfy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealzWolfy&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealzWolfy&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealzWolfy&theme=radical&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealzWolfy&theme=radical&layout=compact" />
 </a>
 
 <br/>
