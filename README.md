@@ -20,15 +20,15 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-
-
 <br/>
-
+<h3>BetterWTF</h3>
+<a href="https://www.github.com/RealzWolfy/BetterWTF">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/pin?username=RealzWolfy&repo=BetterWTF&theme=radical" />
+</a>
+<br/>
 <a href="https://github.com/RealzWolfy">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RealzWolfy&theme=radical&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RealzWolfy&theme=radical&layout=compact" />
 </a>
-
 <br/>
 </p>
