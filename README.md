@@ -31,9 +31,4 @@
 </a>
 
 <br/>
-
-<p align="center">
-<a href="https://twitter.com/RealzWolfy"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-black?style=flat-square&logo=twitter"></a>
-<a href="https://discord.gg/w8VMX6U"><img alt="Discord" src="https://img.shields.io/badge/WolfCave-black?style=flat-square&logo=discord"></a>
-
 </p>
