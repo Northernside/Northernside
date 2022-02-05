@@ -1,4 +1,4 @@
-[![Banner](banner.png)](https://github.com/SushiWaUmai)
+[![Banner](banner.png)](https://github.com/Northernside)
 
 <h1 align="center">
 Hi there, I'm Northernside! 👋
