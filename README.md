@@ -13,7 +13,7 @@ Hi there, I'm Northernside! 👋
 
 <div>
     <div>
-      <img src="https://img.shields.io/badge/Northernside-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center" height="24px">
+      <a href="https://discord.com/users/434417514332815370"><img src="https://img.shields.io/badge/Northernside-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center" height="24px"></a>
     </div>
     <div>
       <a href="https://twitter.com/Northernside"><img src="https://img.shields.io/badge/Northernside-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="center" height="24px"></a>
