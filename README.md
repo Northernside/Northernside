@@ -16,7 +16,7 @@ Hi there, I'm Northernside! 👋
       <a href="https://discord.com/users/434417514332815370"><img src="https://img.shields.io/badge/Northernside-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" align="center" height="24px"></a>
     </div>
     <div>
-      <a href="https://twitter.com/Northernside"><img src="https://img.shields.io/badge/Northernside-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="center" height="24px"></a>
+      <a href="https://twitter.com/northernsidepng"><img src="https://img.shields.io/badge/Northernside-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" align="center" height="24px"></a>
     </div>
     <div>
       <a href="https://www.youtube.com/channel/UCjrvX37E80IQJJSLDvtjpWw"><img src="https://img.shields.io/badge/Northernside-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" align="center" height="24px"></a>
