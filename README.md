@@ -61,5 +61,5 @@ Hi there, I'm Northernside! 👋
 [![Northernside's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Northernside&layout=compact&theme=radical)](https://wakatime.com/@Northernside)
 
 ### Activity 🕹
-[![Discord Presence](https://lanyard.cnrad.dev/api/434417514332815370)](https://discord.com/users/434417514332815370)
+[![Discord Presence](https://lanyard.cnrad.dev/api/434417514332815370?idleMessage=Hippity+Hoppity,+I'll+be+back+properly!)](https://discord.com/users/434417514332815370)
     </div>
