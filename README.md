@@ -42,7 +42,7 @@ Hi there, I'm Northernside! 👋
 
 [![Git](https://img.shields.io/badge/git-%23%20(Still%20Learning)F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Edge](https://img.shields.io/badge/Edge-%230078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white)](https://brave.com/)
+[![Edge](https://img.shields.io/badge/Edge-%230078D7?style=for-the-badge&logo=microsoft%20edge&logoColor=white)](https://www.microsoft.com/edge)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)](https://trello.com/)
 [![DuckDuckGo](https://img.shields.io/badge/DuckDuckGo-DE5835?style=for-the-badge&logo=duckduckgo&logoColor=white)](https://ddg.gg/)
 
