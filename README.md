@@ -7,4 +7,4 @@
 <br>
 `DCD74C1763477A6D30B12B85EF5DA18B3982E87D`
 <br>
-https://trust.northernsi.de/pgp
+https://northernsi.de/pgp
