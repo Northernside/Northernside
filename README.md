@@ -1,4 +1,4 @@
-<img align="center" alt="thumbnail" src="https://raw.githubusercontent.com/Northernside/Northernside/main/wtfnewbannerraaa.png">
+<img align="center" alt="thumbnail" src="https://raw.githubusercontent.com/Northernside/Northernside/main/banner.png">
 <h4 align="center">
   Hello visitor, please look around and visit my tiny but cozy website on
   <a href="https://northernsi.de">northernsi.de</a>!
