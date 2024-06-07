@@ -12,4 +12,4 @@
 </h4>
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: 999; position: fixed; top: 0; left: 0; height: 100vh; background-repeat: no-repeat; width: 100vw; opacity: 1; background: url('https://github.com/Northernside/Northernside/assets/60970791/d7df2af9-ee63-4acf-863d-fab007eab57d'); background-size: cover; background-position: center; background-attachment: fixed;]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 999; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; opacity: 1; overflow: hidden; background: url('https://github.com/Northernside/Northernside/assets/60970791/d7df2af9-ee63-4acf-863d-fab007eab57d') no-repeat center center fixed; background-size: cover;]{x0000}$}
