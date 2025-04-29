@@ -14,4 +14,4 @@ among other things, id also classify myself as a:
 - mojang/minecraft api researcher & abuser -> greetings dat/etanaratsastaja if youll ever read this!
 - amateur urbex-er
 
-![](IMG_0584.webp)
+<!--![](IMG_0584.webp)-->
