@@ -12,6 +12,5 @@ among other things, id also classify myself as a:
     - [cuii](https://de-m-wikipedia-org.translate.goog/wiki/Clearingstelle_Urheberrecht_im_Internet?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=de&_x_tr_pto=wapp) censored domains list leaks & investigation (read more at [cuiiliste](https://cuiiliste.de/))
 - political advocate
 - mojang/minecraft api researcher & abuser -> greetings dat/etanaratsastaja if youll ever read this!
-- amateur urbex-er
 
 <!--![](IMG_0584.webp)-->
